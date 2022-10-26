@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Verify Sign Up For All Cases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9dbcca4-f74c-4509-8bec-4bbb1fa888cd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2b188aa-eb45-4ef1-922f-4645fa7e9219</id>
+      <masked>false</masked>
+      <name>var_fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>044b4228-df5c-407b-928e-122f93f7f08c</id>
+      <masked>false</masked>
+      <name>var_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8938e0e9-b807-4dac-b367-f7c3228c2aac</id>
+      <masked>false</masked>
+      <name>var_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40d08dd6-11f2-43f4-a78a-d8adc5531e20</id>
+      <masked>false</masked>
+      <name>var_statusExpectedResult</name>
+   </variable>
+</TestCaseEntity>

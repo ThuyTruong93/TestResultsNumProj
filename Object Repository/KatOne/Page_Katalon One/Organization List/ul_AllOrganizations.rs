@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_AllOrganizations</name>
+   <tag></tag>
+   <elementGuidId>e2654cd6-50a2-4bc0-a377-1d308a23e61e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/ul/a[${IDX}]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.MuiList-root.jss95.MuiList-padding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiList-root jss95 MuiList-padding</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TTHYALTForEma12356DeleOrg1OOrg2ahhjkEExplorerExplorer PicInviterHHKTTTH ExpHHUYOOPAIInviter779342AABC</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss1&quot;]/div[@class=&quot;MuiBox-root jss55 jss50&quot;]/div[@class=&quot;MuiBox-root jss72 jss53&quot;]/div[@class=&quot;MuiBox-root jss73 jss52&quot;]/div[@class=&quot;MuiBox-root jss84 jss74&quot;]/div[@class=&quot;MuiBox-root jss88&quot;]/div[@class=&quot;MuiBox-root jss97 jss89&quot;]/div[@class=&quot;MuiBox-root jss111 jss91&quot;]/ul[@class=&quot;MuiList-root jss95 MuiList-padding&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/ul/a</value>
+   </webElementXpaths>
+</WebElementEntity>

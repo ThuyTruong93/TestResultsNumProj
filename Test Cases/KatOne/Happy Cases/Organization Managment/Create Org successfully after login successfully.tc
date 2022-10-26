@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Org successfully after login successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22e8b642-9c20-4f4c-ac66-8099670b2a7b</testCaseGuid>
+</TestCaseEntity>

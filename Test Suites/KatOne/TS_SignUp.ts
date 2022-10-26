@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SignUp</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>09c8c90c-7ce0-4dda-9f4b-6c03e179709b</testSuiteGuid>
+   <testCaseLink>
+      <guid>69b58c17-6e97-4bc8-990c-279871c7a069</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Main Test Cases/TC002_Verify Sign Up For All Cases</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>427c68f9-b0c9-481e-beb8-4fadbba37cea</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataSignUpExcelFile</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>427c68f9-b0c9-481e-beb8-4fadbba37cea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname</value>
+         <variableId>f2b188aa-eb45-4ef1-922f-4645fa7e9219</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>427c68f9-b0c9-481e-beb8-4fadbba37cea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>044b4228-df5c-407b-928e-122f93f7f08c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>427c68f9-b0c9-481e-beb8-4fadbba37cea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>8938e0e9-b807-4dac-b367-f7c3228c2aac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>427c68f9-b0c9-481e-beb8-4fadbba37cea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected result TC</value>
+         <variableId>40d08dd6-11f2-43f4-a78a-d8adc5531e20</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
